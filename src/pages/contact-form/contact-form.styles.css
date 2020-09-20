@@ -1,0 +1,10 @@
+#contact h1{
+  color: aliceblue;
+  font-weight: 600;
+}
+
+.contact-jumbotron {
+  background-image: url("../../assets/img/background/background.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

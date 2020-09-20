@@ -1,0 +1,270 @@
+.logo {
+  width: 20%;
+}
+
+.nav-theme {
+  background-color: #101018f8;
+  font-size: 20px;
+}
+
+.animate-navbar {
+  box-shadow: 1px 1px 1px #222;
+  animation: moveDown 0.5s ease-in-out;
+}
+
+@keyframes moveDown {
+  from {
+    transform: translateY(-5rem);
+  }
+  to {
+    transform: translateY(0rem);
+  }
+}
+.modalbodycolor{
+	background-color: cornsilk;
+}
+.cursor_pointer{
+	cursor: pointer;
+}
+.modalheadingcolor{
+	background-color: coral;
+}
+.loginHeading{
+	
+	color: cornsilk;
+	font-weight: 600;
+}
+
+
+
+
+
+.registrationform{
+	position: absolute;
+	padding:45px 40px 55px;
+	background-color: cornsilk;
+	width: 100%;
+	margin-left: -31px;
+	
+}
+
+.registrationform h3{
+	font-size:25px;
+	text-transform:uppercase;
+	margin-bottom:10px;
+}
+
+.registrationform p{
+	line-height:1.3em;
+	font-size:13px;
+}
+
+.registrationform form{
+	margin-top:40px;
+}
+
+.registrationform .form-group{
+	position:relative;
+}
+
+.registrationform .form-group .fa{
+	position:absolute;
+	top:14px;
+	left:15px;
+	font-size:18px;
+}
+
+.registrationform .form-group .fa-envelope{
+	font-size:15px;
+	top:15px;
+}
+
+.registrationform .form-group input{
+	height:45px;
+	padding-left:40px;
+}
+
+.registrationform .form-group textarea{
+	padding-left:40px;
+	padding-top:14px;
+	height:97px;
+}
+
+.registrationform .checkbox{
+	margin-bottom:40px;
+	
+	font-size:13px;
+}
+
+.registrationform .checkbox input{
+	top:-2px;
+}
+
+.registrationform button{
+	height:45px;
+	font-size:16px;
+	font-weight: 600;
+	margin-top:25px;
+	background-color: coral;
+	color: cornsilk;
+}
+.registrationform button:hover{
+	border: 1px solid coral;
+	color: coral;
+	background-color: cornsilk;
+}
+
+.registrationform .other-links{
+	text-align:center;
+	margin-top:27px;
+}
+
+.registrationform .link-line{
+	font-size:14px;
+	margin-bottom:0px;
+}
+
+.registrationform .link-line > a{
+	font-weight:bold;
+}
+
+.registrationform .simple-link{
+	text-decoration:underline;
+	display:inline-block;
+	margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+.custom-form{
+	padding:45px 40px 55px;
+	background-color: cornsilk;	
+}
+
+.custom-form h3{
+	font-size:25px;
+	text-transform:uppercase;
+	margin-bottom:10px;
+}
+
+.custom-form p{
+	line-height:1.3em;
+	font-size:13px;
+}
+
+.custom-form form{
+	margin-top:40px;
+}
+
+.custom-form .form-group{
+	position:relative;
+}
+
+.custom-form .form-group .fa{
+	position:absolute;
+	top:14px;
+	left:15px;
+	font-size:18px;
+}
+
+.custom-form .form-group .fa-envelope{
+	font-size:15px;
+	top:15px;
+}
+
+.custom-form .form-group input{
+	height:45px;
+	padding-left:40px;
+}
+
+.custom-form .form-group textarea{
+	padding-left:40px;
+	padding-top:14px;
+	height:97px;
+}
+
+.custom-form .checkbox{
+	margin-bottom:40px;
+	
+	font-size:13px;
+}
+
+.custom-form .checkbox input{
+	top:-2px;
+}
+
+.custom-form button{
+	height:45px;
+	font-size:16px;
+	font-weight: 600;
+	margin-top:25px;
+	background-color: coral;
+	color: cornsilk;
+}
+.custom-form button:hover{
+	border: 1px solid coral;
+	color: coral;
+	background-color: cornsilk;
+}
+
+.custom-form .other-links{
+	text-align:center;
+	margin-top:27px;
+}
+
+.custom-form .link-line{
+	font-size:14px;
+	margin-bottom:0px;
+}
+
+.custom-form .link-line > a{
+	font-weight:bold;
+}
+
+.custom-form .simple-link{
+	text-decoration:underline;
+	display:inline-block;
+	margin-top:20px;
+}
+
+.custom-check input[type="checkbox"] {
+    display:none;
+}
+
+.custom-check input[type="checkbox"] + label {
+	font-weight:normal;
+	cursor:pointer;
+}
+
+.custom-check input[type="checkbox"]:not(:checked) + label .fa-check{
+	display:none;
+}
+
+.custom-check input[type="checkbox"]:checked + label .fa-check{
+	display:block;
+}
+
+.custom-check input[type="checkbox"] + label span {
+    display:inline-block;
+    width:15px;
+    height:15px;
+    margin:-2px 15px 0 0;
+    vertical-align:middle;
+    cursor:pointer;
+	text-align:center;
+	font-size:12px;
+	padding-top:1px;
+}
+
+
+
+
+
+
+
